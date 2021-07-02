@@ -1,0 +1,37 @@
+English +                         uv
+
+In November 2015, we introduced the
+Go Code of Conduct. It was developed
+in a collaboration between the Go
+team members at Google and the Go
+‘community. | was fortunate to be one
+of the community members invited to
+participate in both drafting and then
+enforcing the Go Code of Conduct
+Since then, we have learned two
+lessons about limitations in our code of
+conduct that restricted us from being
+able to cultivate the safe culture
+essential to Go's success.
+
+Korean ~
+
+iO «
+
+ 
+
+2015 년 11 월에 Go Go of Conduct=
+도일했습니다. 900966의 Go 팀원과
+00 커뮤니티 간의 공동 작얼으로 개발
+되었습니다. 나는 행운의 행동 규범을
+지키고 시행하는 데 참여하도록 초대
+된 공동체 구성원 중 하나가되어 행운
+이었다. 그 이후로 우리는 60의 성공에
+필수적인 안전한 문화를 육성 할 수 없
+도록 제한하는 행동 규범의 한계에 대
+해 두 가지 BES 얻었습니다.
+
+2015 nyeon 11 wol-e Go Go of
+Conductleul doibhaessseubnida.
+Google-ui Go tim-wongwa Go
+
